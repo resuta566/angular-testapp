@@ -1,0 +1,12 @@
+[2019-09-17 10:58:57.583] [exthost] [info] extension host started
+[2019-09-17 10:58:57.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-17 10:58:57.616] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-17 10:58:57.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-17 10:58:57.621] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-17 10:58:57.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-17 10:58:57.637] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-17 10:58:57.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-17 10:58:57.728] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-17 10:58:57.734] [exthost] [info] ExtensionService#_doActivateExtension austenc.laravel-blade-spacer {"startup":true,"activationEvent":"*"}
+[2019-09-17 10:58:57.734] [exthost] [info] ExtensionService#loadCommonJSModule /home/jeires/.vscode/extensions/austenc.laravel-blade-spacer-1.0.3/out/extension
+[2019-09-17 10:58:57.736] [exthost] [info] eager extensions activated
